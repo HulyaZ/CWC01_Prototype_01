@@ -1,7 +1,7 @@
 # Prototype_001 - Car Game
  
 
- <img src="https://github.com/HulyaZeylan/Prototype_001/blob/main/Assets/Screenshots/Prototype01" width="60%">
+ <img src="https://github.com/HulyaZeylan/Prototype_001/Assets/Screenshots/Prototype01" width="60%">
  
 # Challange - Plane Game
 
